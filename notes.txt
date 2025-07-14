@@ -1,0 +1,7 @@
+Elements in HTML
+ there 3 types
+ 1.Block-level -> it occupies a entire width from left to right 100% width
+               -> starts with new line 
+ ex: h1 to h6
+     div, p etc...
+ 2.Inline-level ->
